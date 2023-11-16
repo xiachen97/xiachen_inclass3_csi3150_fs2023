@@ -1,0 +1,31 @@
+/* CounterComponent.css */
+
+.counter-container {
+    text-align: center;
+    border-style: solid; 
+    margin: 30%;  
+    background-color: antiquewhite;
+}
+  
+.counter-value button {
+    font-size: 2em;
+    margin: 10%;
+    padding: 8px 12px;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.counter-buttons button {
+    font-size: 2em;
+    margin: 10%;
+    padding: 8px 12px;
+    cursor: pointer;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.counter-buttons button:hover {
+    background-color: #99C1B9;
+}
+  
