@@ -1,1 +1,3 @@
-# Getting Started with Create React App
+# Below is a screenshot of my page...
+<img src="https://github.com/xiachen97/xiachen_inclass3_csi3150_fs2023/blob/main/src/components/screenshot1.PNG">
+<img src="https://github.com/xiachen97/xiachen_inclass3_csi3150_fs2023/blob/main/src/components/screenshot2.PNG">
