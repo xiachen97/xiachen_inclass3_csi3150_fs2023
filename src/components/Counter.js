@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./counter.css";
-const CounterComponent = () => {
+const Counter = () => {
   const [counter, setCounter] = useState(0);
 
   const handleIncrement = () => {
@@ -22,4 +22,4 @@ const CounterComponent = () => {
   );
 };
 
-export default CounterComponent;
+export default Counter;
